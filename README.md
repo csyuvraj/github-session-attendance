@@ -1,3 +1,3 @@
 # github-session-attendance
 
-Aakarsh Kumar
+Yuvraj Singh
